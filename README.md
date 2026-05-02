@@ -69,6 +69,6 @@ QA-Manual-Testing-SauceDemo/
 
 ## 🙋‍♀️ Author
 
-Nikita Gupta
+Nikita Raj Rauniyar
 CSIT Student | Aspiring QA Engineer
 
